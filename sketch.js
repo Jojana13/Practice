@@ -1,4 +1,4 @@
-var witch, girl, coins, spell;
+var witch, girl, coins, spell, test;
 
 function preload(){
 
